@@ -1,0 +1,1 @@
+(this.webpackJsonp=this.webpackJsonp||[]).push([["swag-training-administration-routing"],{VB1M:function(o,t){Shopware.Module.register("swag-custom-route",{routeMiddleware:function(o,t){"sw.product.detail"===t.name?(t.children.forEach((function(o){"sw.product.detail.base"===o&&(o.component="foobar")})),o(t)):o(t)}})}},[["VB1M","runtime"]]]);
